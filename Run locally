@@ -1,0 +1,3 @@
+$> cd react-wordle
+$> npm install
+$> npm run start
